@@ -1,0 +1,1 @@
+https://teachablemachine.withgoogle.com/models/tiV220g3O/model.json
